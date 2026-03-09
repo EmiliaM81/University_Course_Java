@@ -1,0 +1,16 @@
+// products.txt
+Laptop Dell XPS;5999.99;Elektronika
+Klawiatura mechaniczna;349.99;Akcesoria komputerowe
+Mysz bezprzewodowa;129.99;Akcesoria komputerowe
+Słuchawki Sony;799.00;Audio
+Smartfon Samsung;2499.00;Elektronika
+Monitor 4K;1899.99;Elektronika
+Głośnik Bluetooth;279.99;Audio
+Pendrive 128GB;89.99;Akcesoria komputerowe
+Tablet Apple;2899.00;Elektronika
+Mikrofon studyjny;599.00;Audio
+Kabel HDMI;49.99;Akcesoria komputerowe
+Słuchawki gamingowe;349.00;Audio
+Telewizor 55";3999.00;Elektronika
+Powerbank 20000mAh;199.99;Akcesoria komputerowe
+Kamera internetowa;299.00;Elektronika

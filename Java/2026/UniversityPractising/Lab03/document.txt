@@ -1,0 +1,3 @@
+Dokument z pliku 
+Pierwsza linia treści dokumentu.
+Druga linia treści dokumentu.
