@@ -1,0 +1,9 @@
+Reading data from file: input.txt
+Line 1: 42 (Valid)
+Line 2: Error - Empty line: Line 2 is empty or contains whitespace only.
+Line 3: Error - Non-numeric data: Line 3 contains non-numeric data: '123abc'
+Line 4: Error - Non-numeric data: Line 4 contains non-numeric data: '!@#'
+Line 5: -7 (Valid)
+Line 6: Error - Non-numeric data: Line 6 contains non-numeric data: 'fifty'
+Line 7: 15 (Valid)
+Total sum of valid numbers: 50
